@@ -19,4 +19,14 @@ Data preprocessing, encompassing missing data filling, data scaling, and outlier
 This research project is anticipated to make several notable contributions to the field of missing data imputation in healthcare datasets. These contributions include:
 The introduction of CCMVI-NOH as an innovative and comprehensive imputation method, which not only estimates missing data but also addresses data normalization and outlier handling. Insights into the performance of the CCMVI-NOH algorithm across diverse healthcare datasets, providing a basis for assessing its generalizability. The devel- opment of a robust pipeline for missing data imputation, enabling the application of the CCMVI-NOH algorithm to a variety of healthcare datasets. In conclusion, this research project endeavors to offer an advanced solution to missing data imputation in healthcare datasets, potentially enhancing data quality for critical applications in healthcare, data analysis, and decision-making processes.
 
+### Results
+![image](https://github.com/120CS0121/120CS0121-Research-Project-2023-24/assets/87220467/59c0c125-469d-4e89-b284-892fac6fe040)
+Comparitive Analysis of Evaluation Metrics
+And concluded that our proposed approach performimg well on the given healthcare dataset
+
+![image](https://github.com/120CS0121/120CS0121-Research-Project-2023-24/assets/87220467/f56e7da0-25b8-408b-b99c-340badadca9b)
+Checking Our Model Performance on different datasets
+And concluded that our proposed approach performimg well on the different healthcare datasets
+
+
 
