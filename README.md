@@ -1,2 +1,5 @@
 # 120CS0121-Research-Project-2023-24
-#### Missing Data Imputation in Healthcare Datasets Using Machine Learning Techniques
+### Missing Data Imputation in Healthcare Datasets Using Machine Learning Techniques
+
+#### MOTIVATION
+In the medical world, think of missing data like pieces of a patient's health story left blank. It's like having an incomplete picture of their well-being. Now, imagine trying to make important health decisions without all the pieces - it's challenging and risky. Completing these missing parts is like filling in the gaps in a patient's health story. Why does this matter so much? Well, it's about making sure doctors have all the details they need to provide the best care. It's like making sure a puzzle is complete, so nothing important is left out. For example, if a patient has missing data in their medical history, it's like having a book with some pages torn out. You might miss important clues about their health. Imputing missing data is like fixing those torn pages, making sure the whole story is available. And it's not just about one patient. In the world of medical research and finding better treatments, having complete and accurate data is like having a clear roadmap. It helps scientists and doctors discover patterns and come up with new ways to improve health.
